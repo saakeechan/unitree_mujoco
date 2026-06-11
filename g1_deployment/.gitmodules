@@ -1,0 +1,9 @@
+[submodule "unitree_rl_lab"]
+	path = unitree_rl_lab
+	url = git@github.gatech.edu:jkamohara3/unitree_rl_lab.git
+[submodule "unitree_mujoco"]
+	path = unitree_mujoco
+	url = git@github.gatech.edu:jkamohara3/unitree_mujoco.git
+[submodule "unitree_sdk2"]
+	path = unitree_sdk2
+	url = git@github.com:unitreerobotics/unitree_sdk2.git
